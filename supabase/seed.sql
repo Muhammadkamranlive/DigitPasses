@@ -1,0 +1,3 @@
+-- Optional: after creating Auth users in the dashboard with the demo emails,
+-- you can attach them to the Sunset Cafe story by updating profiles.tenant_id.
+-- The Angular demo store does not need this file.
